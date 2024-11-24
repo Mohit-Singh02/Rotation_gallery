@@ -11,6 +11,10 @@ use cleartime out and settime out
 use add eventListner and timing function of second for setinterval
 
 
+(https://mohit-singh02.github.io/Rotation_gallery/)
+
+
+
 
 
 
